@@ -1,0 +1,13 @@
+# Environment variables - never upload to GitHub!
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# pytest cache
+.pytest_cache/
+
+# Virtual environment folder
+venv/
